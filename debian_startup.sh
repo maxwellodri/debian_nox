@@ -12,3 +12,5 @@ mkdir ~/bin
 sh custom_bin_scripts.sh
 echo "In vim (neovim) run 'PlugInstall'"
 echo -e "Now run:\nchsh root --shell /bin/zsh"
+
+#https://github.com/LukeSmithxyz/emailwiz #grab the email script
